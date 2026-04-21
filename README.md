@@ -18,9 +18,9 @@
 │   ├── transcripts/   # 课程转录稿
 │   └── assets/        # 图片/附件
 ├── entities/          # 实体：人物/理论/学派
-├── concepts/          # 核心概念定义
-├── comparisons/       # 易混淆概念对比
-├── queries/           # 问答/真题/考点
+├── 核心概念/          # 核心概念定义
+├── 概念对比/       # 易混淆概念对比
+├── 问答/           # 问答/真题/考点
 ├── _templates/        # 页面模板
 ├── SCHEMA.md          # 规范定义
 ├── index.md           # 总索引

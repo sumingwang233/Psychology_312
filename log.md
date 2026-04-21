@@ -11,14 +11,14 @@ tags: [meta]
 ## [2026-04-21] create | 初始化知识库
 
 ### 创建目录
-- `raw/articles/`
+- `原始资料/文章/`
 - `raw/papers/`
 - `raw/transcripts/`
 - `raw/assets/`
 - `entities/`
-- `concepts/`
-- `comparisons/`
-- `queries/`
+- `核心概念/`
+- `概念对比/`
+- `问答/`
 - `_templates/`
 
 ### 创建文件
@@ -26,8 +26,8 @@ tags: [meta]
 - `index.md` — 知识库总索引
 - `log.md` — 本更新日志
 - `README.md` — 知识库说明文档
-- `_templates/concept-template.md` — 概念页面模板
-- `_templates/query-template.md` — 问答页面模板
+- `_templates/概念模板.md` — 概念页面模板
+- `_templates/问答模板.md` — 问答页面模板
 
 ---
 
