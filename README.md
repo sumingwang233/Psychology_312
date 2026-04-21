@@ -2,9 +2,9 @@
 
 ## 简介
 
-这是一个公开的笔记仓库，将记录我27年心理学312考研的相关内容，整理生成时使用了Hermes agent。
+这是一个公开的笔记仓库，将记录我27年心理学312考研的相关内容，整理时使用了Hermes agent。
 
-本知识库用于系统化整理心理学专业基础综合（312）考研知识点，支持 Obsidian 直接打开和维护。
+本知识库用于系统化整理心理学312考研知识点，支持 Obsidian 直接打开和维护。
 
 该知识库结构借鉴了[datawhale的大佬教程](https://datawhaler.feishu.cn/wiki/YesRwdINviiqPbkRkHlcGwuqnWe)
 
