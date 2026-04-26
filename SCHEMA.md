@@ -24,7 +24,7 @@ sources: []
 title:          # 页面标题（必填）
 created:        # 创建日期 YYYY-MM-DD（必填）
 updated:        # 更新日期 YYYY-MM-DD（必填）
-type:           # 页面类型：entity | concept | comparison | query | raw | meta（必填）
+type:           # 页面类型：entity | concept | comparison | query | raw | review | meta（必填）
 tags:           # 标签列表（必填，至少一个）
 sources:        # 来源引用列表（选填，格式：[来源ID]
 ---
@@ -49,6 +49,7 @@ sources:        # 来源引用列表（选填，格式：[来源ID]
 | #高频考点 | 高频出现在真题中 |
 | #易混淆概念 | 容易混淆的知识点 |
 | #实验范式 | 经典实验范式 |
+| #一战复盘 | 一战备考经历总结与反思 |
 | #计算题 | 涉及计算的题型 |
 | #简答题 | 简答题考点 |
 | #论述题 | 论述题考点 |
@@ -95,5 +96,6 @@ sources:        # 来源引用列表（选填，格式：[来源ID]
 | concepts | 核心概念定义与解释 |
 | comparisons | 易混淆概念对比表 |
 | queries | 问答对/真题/考点 |
+| 一战总结复盘 | 一战备考历程复盘、经验教训、数据总结 |
 | _templates | 页面模板 |
 
