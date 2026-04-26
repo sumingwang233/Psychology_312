@@ -24,7 +24,7 @@ sources: []
 title:          # 页面标题（必填）
 created:        # 创建日期 YYYY-MM-DD（必填）
 updated:        # 更新日期 YYYY-MM-DD（必填）
-type:           # 页面类型：entity | concept | comparison | query | raw | review | meta（必填）
+type:           # 页面类型：entity | concept | comparison | query | raw | review | career | meta（必填）
 tags:           # 标签列表（必填，至少一个）
 sources:        # 来源引用列表（选填，格式：[来源ID]
 ---
@@ -50,6 +50,7 @@ sources:        # 来源引用列表（选填，格式：[来源ID]
 | #易混淆概念 | 容易混淆的知识点 |
 | #实验范式 | 经典实验范式 |
 | #一战复盘 | 一战备考经历总结与反思 |
+| #职业规划 | 职业生涯路径探索、岗位研究、行业洞察 |
 | #计算题 | 涉及计算的题型 |
 | #简答题 | 简答题考点 |
 | #论述题 | 论述题考点 |
@@ -97,5 +98,6 @@ sources:        # 来源引用列表（选填，格式：[来源ID]
 | comparisons | 易混淆概念对比表 |
 | queries | 问答对/真题/考点 |
 | 一战总结复盘 | 一战备考历程复盘、经验教训、数据总结 |
+| 职业生涯规划 | 产品经理职业路径、AI行业、心理学应用场景 |
 | _templates | 页面模板 |
 
